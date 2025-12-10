@@ -201,13 +201,13 @@ export default function WeddingWebsite() {
         {/* Hero Content */}
         <div className="relative z-10 flex h-full flex-col items-center justify-center px-5 text-center text-white">
           <h1 className="font-great-vibes mb-4 text-7xl font-normal text-yellow-400 shadow-lg animate-fadeInDown md:text-8xl">
-            Sarah & Michael
+            Queen & Bright
           </h1>
           <p className="font-cormorant mb-0 text-xl font-light uppercase tracking-[6px] shadow-md animate-fadeInUp md:text-2xl" style={{animationDelay: '0.3s', animationFillMode: 'both'}}>
             We're Getting Married
           </p>
           <p className="mt-8 text-lg font-light tracking-[2px] shadow-md animate-fadeInUp md:text-xl" style={{animationDelay: '0.6s', animationFillMode: 'both'}}>
-            June 15th, 2024
+            December 20th, 2025
           </p>
         </div>
 
