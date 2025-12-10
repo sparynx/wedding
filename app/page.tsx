@@ -265,7 +265,7 @@ export default function WeddingWebsite() {
             <div className="mt-12 border-t border-gray-200 pt-10 text-base italic leading-loose text-gray-500 md:text-lg">
               "Two souls with but a single thought, two hearts that beat as one."
               <br /><br />
-              Join us for an evening of love, joy, and celebration as we exchange vows<br className="hidden md:block" />
+              Join us for a day of love, joy, and celebration as we exchange vows<br className="hidden md:block" />
               and begin our journey together. Your presence would mean the world to us.
             </div>
           </div>
