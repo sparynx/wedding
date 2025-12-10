@@ -351,7 +351,7 @@ export default function WeddingWebsite() {
             </h3>
             
             <div className="mb-6 bg-gray-50 p-7 md:p-8">
-              <h4 className="font-cormorant mb-5 text-xl font-semibold text-blue-700">Bank Account</h4>
+              <h4 className="font-cormorant mb-5 text-xl font-semibold text-blue-700">Bank Account </h4>
               <div className="mb-4 flex flex-col items-start justify-between gap-3 md:flex-row md:items-center">
                 <span className="flex-1 text-base font-medium text-gray-700">Gtbank</span>
                 <button
@@ -373,9 +373,9 @@ export default function WeddingWebsite() {
             </div>
 
             <div className="bg-gray-50 p-7 md:p-8">
-              <h4 className="font-cormorant mb-5 text-xl font-semibold text-blue-700">Mobile Money</h4>
+              <h4 className="font-cormorant mb-5 text-xl font-semibold text-blue-700">Bank Account</h4>
               <div className="mb-4 flex flex-col items-start justify-between gap-3 md:flex-row md:items-center">
-                <span className="flex-1 text-base font-medium text-gray-700">Queen Ojochogwu</span>
+                <span className="flex-1 text-base font-medium text-gray-700">Gtbank</span>
                 <button
                   onClick={() => copyText('Queen Ojochogwu', 'Account Name')}
                   className="w-full whitespace-nowrap bg-blue-700 px-5 py-2.5 text-sm font-medium text-white transition-all hover:bg-blue-900 md:w-auto"
@@ -384,9 +384,9 @@ export default function WeddingWebsite() {
                 </button>
               </div>
               <div className="flex flex-col items-start justify-between gap-3 md:flex-row md:items-center">
-                <span className="flex-1 break-all text-base font-medium text-gray-700">2347053505198</span>
+                <span className="flex-1 break-all text-base font-medium text-gray-700">1013107273</span>
                 <button
-                  onClick={() => copyText('+234 801 234 5678', 'Mobile Number')}
+                  onClick={() => copyText('1013107273', 'Mobile Number')}
                   className="w-full whitespace-nowrap bg-blue-700 px-5 py-2.5 text-sm font-medium text-white transition-all hover:bg-blue-900 md:w-auto"
                 >
                   📋 Copy
